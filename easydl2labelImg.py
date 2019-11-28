@@ -159,7 +159,7 @@ def getdateset(dataset_id,annotated=1,offset=0):
 def downloaddatesetpage(dataset_id,path,annotated=0,offset=0):
 	size=0
 	data = getdateset(dataset_id,annotated,offset)
-	print(data)
+	# print(data)
 	if 'success' in data:
 		if data['success']:
 			if 'result' in data:
