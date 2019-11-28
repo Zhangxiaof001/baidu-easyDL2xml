@@ -13,7 +13,7 @@
 
 代码基于python 3.x 版本
 
-5、打开test.py, 设置downloaddateset的两个参数（参数为数据集id和本地保存目录，本地目录需要预先建好）
+5、打开test.py, 设置downloaddateset函数的两个参数（参数为数据集id和本地保存目录，本地目录需要预先建好）
 然后直接运行该文件，即可下载。
 
 Note：下载数据的数量若出问题，查看 easydl2labelImg.py 的第147行说明。
