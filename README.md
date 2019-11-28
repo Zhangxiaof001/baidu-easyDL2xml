@@ -1,0 +1,2 @@
+# baidu-easyDL2xml
+百度easyDL专业版easyDL2xml：将easyDL专业版 智能标注后的数据集下载到本地并转换为xml格式
